@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/anli2" />
+    <file type="web" url="file://$PROJECT_DIR$/CRUDdemo" />
+    <file type="web" url="file://$PROJECT_DIR$/FileMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatisDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMvcDemo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MvnDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMvcDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/anli2/pom.xml" />
+        <option value="$PROJECT_DIR$/FileMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/CRUDdemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

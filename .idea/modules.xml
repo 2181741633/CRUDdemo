@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRUDdemo/CRUDdemo.iml" filepath="$PROJECT_DIR$/CRUDdemo/CRUDdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileMVC/FileMVC.iml" filepath="$PROJECT_DIR$/FileMVC/FileMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvnDemo/MvnDemo.iml" filepath="$PROJECT_DIR$/MvnDemo/MvnDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringDemo/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvcDemo/SpringMvcDemo.iml" filepath="$PROJECT_DIR$/SpringMvcDemo/SpringMvcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anli1/anli1.iml" filepath="$PROJECT_DIR$/anli1/anli1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anli2/anli2.iml" filepath="$PROJECT_DIR$/anli2/anli2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisDemo/mybatisDemo.iml" filepath="$PROJECT_DIR$/mybatisDemo/mybatisDemo.iml" />
+    </modules>
+  </component>
+</project>

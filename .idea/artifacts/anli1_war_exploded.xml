@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="anli1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/anli1_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="anli1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="anli1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="apache-tomcat-8.5" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="mysql-connector-java-5.0.8-bin (3)" />
+          <element id="library" level="project" name="standard" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
